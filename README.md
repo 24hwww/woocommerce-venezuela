@@ -1,2 +1,30 @@
-# woocommerce-venezuela
-Listado de Estados y Ciudades de Venezuela, que rellena automaticamente el campo codigo postal en el checkout de Woocommerce
+# Estados y Ciudades con codigo postal de Venezuela
+### Ya tus compradores no tendran que adivinar su codigo postal en Venezuela, con solo seleccionar su estado y su ciudad ya el campo codigo postal sera rellenado y el plugin oculta este campo, tanto para los formularios de billing como de shipping. si estas interesado en adquirir este plugin escribeme via twitter: [@pr0gramador](https://www.twitter.com/pr0gramador "@pr0gramador") o via instagram: [@programadorve](https://www.instagram.com/programadorve "@programadorve")
+
+## Vista Front-End del Plugin en Gif:
+
+![Screenshot](https://dl.dropboxusercontent.com/u/1196814/%4024hwww/plugin-woocommerce-venezuela.gif "FrontEnd Plugin")
+
+## Instalación
+
+
+    Comunicarse con el desarrollador.
+
+
+## Versión
+
+```
+[1.0]
+```
+
+## Venezuela
+
+El plugin contiene los estados:
+
+Amazonas, Anzoátegui, Apure, Aragua, Barinas, Bolívar, Carabobo, Cojedes, Delta Amacuro, Distrito Capital, Falcón, Guárico, Lara, Mérida, Miranda, Monagas, Nueva Esparta, Portuguesa, Sucre, Tachira, Trujillo, Vargas, Yaracuy, Zulia.
+
+Con sus principales ciudades.
+
+## Licencia
+
+Commercial
